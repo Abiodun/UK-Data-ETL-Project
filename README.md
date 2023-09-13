@@ -1,4 +1,4 @@
-# Customer-Data-ETL-Pipeline
+# 4GB Size Data Engineering
 
 ##Introduction
 The goal of this project is to perform some ETL operations on 4GB customer data using various tools and technologies, Python, Mage Data Pipeline Tool, BigQuery or MySQL, and Looker Studio.
